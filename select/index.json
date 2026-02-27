@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Supreme",
+  "base_artist": "Robbie Williams",
+  "createdAt": "2026-02-27T20:28:27.878233Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Supreme Ascendancy",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Supreme_Ascendancy_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Supreme Hoodies",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/02_Supreme_Hoodies_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Reign Supreme",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/03_Love_Reign_Supreme_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Supreme",
+      "artist": "Angel Haze",
+      "has_synced": true,
+      "path": "select/04_Supreme_Angel_Haze.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Love Supreme",
+      "artist": "Alice Coltrane",
+      "has_synced": false,
+      "path": "select/05_A_Love_Supreme_Alice_Coltrane.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Supreme",
+      "artist": "Robbie Williams",
+      "has_synced": false,
+      "path": "select/pl_01_Supreme_Robbie_Williams.txt"
+    }
+  ]
+}
